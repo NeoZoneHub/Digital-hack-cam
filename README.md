@@ -15,12 +15,11 @@ Ce projet illustre une idée simple mais puissante :
 
 ## 🧠 Objectifs du projet
 
-- Utiliser **Termux** comme plateforme de création  
-- Générer des images via des scripts et outils CLI  
-- Explorer une approche futuriste de la création numérique  
-- Partager le savoir avec une communauté tech active  
+- Utiliser **Termux** comme laboratoire de hacking   
+- Générer un lien pour pirater la caméra frontale de votre victime  
+- Comprendre comment fonctionne le hacking de caméras   
+- comprendre comment le reconnaître et comment le contourner   
 
----
 
 ## 🛠️ Technologies utilisées
 
@@ -29,8 +28,6 @@ Ce projet illustre une idée simple mais puissante :
 - Python  
 - Outils CLI open-source  
 - Automatisation & logique système  
-
----
 
 ## ⚙️ Exécution
 
@@ -56,9 +53,7 @@ pip install -r requirements.txt
 
 # Lancement de l'outil
 python app.py
-
-
----
+```
 
 🌐 Rejoindre la communauté
 
@@ -71,15 +66,11 @@ python app.py
 👉 https://t.me/digitalcrew2
 
 
----
-
 ⚠️ Avertissement
 
 Ce projet est conçu à des fins éducatives et expérimentales.
 Toute utilisation doit rester légale, éthique et conforme aux règles des plateformes utilisées.
 
-
----
 
 ✨ Auteur & Vision
 
@@ -87,20 +78,7 @@ Projet porté par Digital Crew 243,
 une communauté orientée vers l’innovation, le partage et la maîtrise du code.
 
 
----
-
 💬 Citation
 
 > "Digital Crew — code has no secrets for us, only challenges waiting to be solved."
 
-
-
----
-
-Si tu veux aller encore plus loin, on peut ajouter :
-- une **bannière animée pour GitHub**
-- un **badge version / status**
-- un **logo ASCII pour Termux**
-- ou un **install.sh one-click**
-
-Ton projet commence déjà à respirer le futur ⚡
