@@ -55,16 +55,15 @@ pip install -r requirements.txt
 python app.py
 ```
 
-🌐 Rejoindre la communauté
+## 🌐 Rejoindre la communauté
 
-📲 Chaîne WhatsApp officielle
+Pour suivre l’évolution du projet, recevoir les mises à jour et échanger avec la communauté **Digital Crew 243**, rejoins nos canaux officiels :
 
-👉 https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B
+📲 **Chaîne WhatsApp officielle**  
+https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B
 
-📡 Canal Telegram
-
-👉 https://t.me/digitalcrew2
-
+📡 **Canal Telegram**  
+https://t.me/digitalcrew2
 
 ⚠️ Avertissement
 
