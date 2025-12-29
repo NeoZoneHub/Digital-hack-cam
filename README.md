@@ -57,13 +57,11 @@ python app.py
 
 ## 🌐 Rejoindre la communauté
 
-Pour suivre l’évolution du projet, recevoir les mises à jour et échanger avec la communauté **Digital Crew 243**, rejoins nos canaux officiels :
+Rejoins la communauté **Digital Crew 243** pour suivre les mises à jour, échanger et évoluer avec le projet.
 
-📲 **Chaîne WhatsApp officielle**  
-https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B
+[![Rejoindre la chaîne WhatsApp](https://img.shields.io/badge/WhatsApp-Rejoindre%20la%20chaîne-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBT7FdLCoX1TDyQQb1B)
 
-📡 **Canal Telegram**  
-https://t.me/digitalcrew2
+[![Rejoindre le canal Telegram](https://img.shields.io/badge/Telegram-Rejoindre%20le%20canal-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/digitalcrew2)
 
 ⚠️ Avertissement
 
