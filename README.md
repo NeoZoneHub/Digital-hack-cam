@@ -33,7 +33,7 @@
 pkg update && pkg upgrade -y
 
 # cloner le dépôt
-git clone https://github.com/digitalcrew243/Digital-hack-cam
+git clone https://github.com/NeoZoneHub/Digital-hack-cam
 
 # Installer dépendances système
 pkg install python -y
